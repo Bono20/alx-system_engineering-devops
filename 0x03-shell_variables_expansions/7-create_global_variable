@@ -1,2 +1,2 @@
 #!/bin/bash
-exporr SCHOOL="Betty"
+export SCHOOL="Betty"
